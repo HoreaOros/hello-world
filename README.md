@@ -4,8 +4,8 @@ Scurta descriere a proiectului
 ## Titlu 2
 ### Titlu 3
 
-** acest text este bold **
-* acest text este italix *
+**acest text este bold**
+*acest text este italic*
 
 O lista numerotata
 1. Item 1
