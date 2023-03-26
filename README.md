@@ -1,5 +1,5 @@
 # hello-world
-Scurta descriere a proiectului
+Scurta descriere a proiectului, adaugare markdown syntax
 # Titlu 1
 ## Titlu 2
 ### Titlu 3
